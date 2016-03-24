@@ -29,3 +29,7 @@ https://<i></i>example.com/**&lt;foo_bar&gt;**/baz
 ```
 git clone git@github.com:<b><foo_bar></b>/baz.git
 ```
+
+<pre>
+git clone git@github.com:<b><foo_bar></b>/baz.git
+</pre>
