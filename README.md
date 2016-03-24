@@ -9,3 +9,5 @@ https://example.com/\<foo_bar\>/baz
 https://<span></span>example.com/<foo_bar>/baz
 
 `https://example.com/<foo_bar>/baz`
+
+ht<span>tps://</span>example.com/<foo_bar>/baz
