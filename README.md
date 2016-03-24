@@ -31,5 +31,5 @@ git clone git@github.com:<b><foo_bar></b>/baz.git
 ```
 
 <pre>
-git clone git@github.com:<b><foo_bar></b>/baz.git
+git clone git@github.com:<b>&lt;foo_bar&gt;</b>/baz.git
 </pre>
