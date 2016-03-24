@@ -14,4 +14,4 @@ ht<span>tps://</span>example.com/<foo_bar>/baz
 
 https://<i></i>example.com/<foo_bar>/baz
 
-https\://example.com/<foo_bar>/baz
+https://<i></i>example.com/&lt;foo_bar&gt;/baz
